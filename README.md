@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat R Rokde</h1>
 <h3 align="center">A passionate devops developer from India</h3>
 
-- 🔭 I’m currently working on **aws ticket booking system**
+- 🔭 I’m currently working on **aws ticket booking system and other cloud computing projecct**
 
 - 💬 Ask me about **aws, cicrcle cicd, jenkins ,kuberneties,terraform,docker**
 
