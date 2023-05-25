@@ -11,15 +11,7 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 <p align="center"> 
     <a href="https://github.com/rajatrrokde01" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@RajatRRokde01-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rajatrokde/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Rajatrokde-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    
-    <img alt="WeChat" src="https://img.shields.io/badge/-milaanparmar9-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
-    <img alt="Skype" src="https://img.shields.io/badge/milaan.09-blue?flat-square&logo=skype&logoColor=white"></a>
-    <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
-    <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
-    <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
-    <!--<img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>-->
-    <!--<img alt="mobile" src="https://img.shields.io/badge/📱 -+8613756537093-white?style=fflat-square&labelColor=white"></a>-->
-    <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
+    <a href="https://wa.me/+917020417159" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>
 </p> 
 <p align="left">
 </p>
