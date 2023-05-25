@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **aws, cicrcle cicd, jenkins ,kuberneties,terraform,docker**
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatrrokde01&theme=tokyonight
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rajatrrokde01}&theme={tokyonight}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
