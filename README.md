@@ -11,7 +11,7 @@
 <p align="center">  
     <a href="https://github.com/rajatrokde" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@RajatRokde-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rajatrokde/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Rajatrokde-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://wa.me/+917020417159" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>
+    <a href="https://wa.me/+917020417159" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>
 </p> 
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
