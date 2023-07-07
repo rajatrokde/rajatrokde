@@ -1,31 +1,19 @@
-name: Deploy to GitHub Pages
-
+name: Latest blog post workflow
 on:
-  push:
-    branches:
-      - main  # Change this to the branch you want to deploy from
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  deploy:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build
-        run: npm run build  # Modify this command based on your build process
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.RAJATGITHUB_TOKEN }}
-          publish_dir: ./dist  # Modify this directory based on your build output
+          feed_list: "https://medium.com/@rajatrokde"
