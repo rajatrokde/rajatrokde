@@ -28,7 +28,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ci-cd-project-using-docker-jenkins-ansible-minikube-for-development](https://medium.com/@rajatrokde/ci-cd-project-using-docker-jenkins-ansible-minikube-for-development-ada3c9644a4))
+- [ci-cd-project-using-docker-jenkins-ansible-minikube-for-development](https://medium.com/@rajatrokde/ci-cd-project-using-docker-jenkins-ansible-minikube-for-development-ada3c9644a4)
 <!-- BLOG-POST-LIST:END -->
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
