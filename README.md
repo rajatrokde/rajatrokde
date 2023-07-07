@@ -28,7 +28,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ci-cd-project-using-docker-jenkins-ansible-minikube-for-development](https://medium.com/@rajatrokde/ci-cd-project-using-docker-jenkins-ansible-minikube-for-development-ada3c9644a4)
+- [CI/CD project using Docker, Jenkins, Ansible &amp; Minikube for Development](https://rajatrokde.medium.com/ci-cd-project-using-docker-jenkins-ansible-minikube-for-development-ada3c9644a4?source=rss-10e6ab50b9a------2)
+- [best gaming chairs with speakers uk 2021](https://rajatrokde.medium.com/best-gaming-chairs-with-speakers-uk-2021-7fe302049ec5?source=rss-10e6ab50b9a------2)
+- [How To Convert A Laptop Into A Gaming Laptop?](https://rajatrokde.medium.com/how-to-convert-a-laptop-into-a-gaming-laptop-60f703abda85?source=rss-10e6ab50b9a------2)
 <!-- BLOG-POST-LIST:END -->
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
