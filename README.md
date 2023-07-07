@@ -41,4 +41,7 @@
     <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
 
+<div align =left> 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/rajatrokde/rajatrokde/actions/workflows/Deploy.yml/badge.svg)](https://github.com/rajatrokde/rajatrokde/actions/workflows/Deploy.yml)
+[![Latest blog post workflow](https://github.com/rajatrokde/rajatrokde/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/rajatrokde/rajatrokde/actions/workflows/blog-post-workflow.yml)
+</div>
