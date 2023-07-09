@@ -28,7 +28,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction](https://rajatrokde.medium.com/introduction-a028cc5a251b?source=rss-10e6ab50b9a------2)
+- [step-by-step guide for a DevOps project:](https://rajatrokde.medium.com/step-by-step-guide-for-a-devops-project-32beb40186fe?source=rss-10e6ab50b9a------2)
+- [Automate EC2 Instance Launch using Github Actions](https://rajatrokde.medium.com/introduction-a028cc5a251b?source=rss-10e6ab50b9a------2)
 - [CI/CD project using Docker, Jenkins, Ansible &amp; Minikube for Development](https://rajatrokde.medium.com/ci-cd-project-using-docker-jenkins-ansible-minikube-for-development-ada3c9644a4?source=rss-10e6ab50b9a------2)
 <!-- BLOG-POST-LIST:END -->
 <div align="center">
