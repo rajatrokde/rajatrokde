@@ -46,3 +46,4 @@
     <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
 </div>
+[![Create/Update EC2 instances](https://github.com/rajatrokde/demo-site/actions/workflows/ec2-demo.yml/badge.svg)](https://github.com/rajatrokde/demo-site/actions/workflows/ec2-demo.yml)
