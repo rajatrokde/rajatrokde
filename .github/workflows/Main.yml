@@ -1,0 +1,26 @@
+name: Update README with Hashnode post
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour, you can adjust the schedule as needed
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update README with Hashnode post
+        env:
+          HASHNODE_API_TOKEN: ${{ secrets.HASHNODE_API_TOKEN }}
+        run: |
+          # Replace `rajatrokde` with your Hashnode username and `YOUR_HASHNODE_POST_SLUG` with the post's slug
+          # Make sure you have the 'curl' command available in the system (most systems have it pre-installed)
+          curl -X POST -H "Content-Type: application/json" -H "Authorization: $HASHNODE_API_TOKEN" -d '{"username":"rajatrokde","slug":"/"}' https://api.hashnode.com/
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "rajatrokde"
+          git config --global user.email "rajatrokde01@gmail.com"
+          git add README.md
+          git commit -m "Update README with Hashnode post"
+          git push
