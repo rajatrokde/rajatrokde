@@ -17,3 +17,26 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@rajatrokde/"
+
+  jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update README with Hashnode post
+        env:
+          HASHNODE_API_TOKEN: ${{ secrets.HASHNODE_API_TOKEN }}
+        run: |
+          # Replace `YOUR_HASHNODE_USERNAME` with your Hashnode username and `YOUR_HASHNODE_POST_SLUG` with the post's slug
+          # Make sure you have the 'curl' command available in the system (most systems have it pre-installed)
+          curl -X POST -H "Content-Type: application/json" -H "Authorization: $HASHNODE_API_TOKEN" -d '{"username":"YOUR_HASHNODE_USERNAME","slug":"YOUR_HASHNODE_POST_SLUG"}' https://api.hashnode.com/
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Your GitHub Username"
+          git config --global user.email "your.email@example.com"
+          git add README.md
+          git commit -m "Update README with Hashnode post"
+          git push
