@@ -28,6 +28,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Super Mario on Kubernetes](https://rajatrokde.medium.com/deploying-super-mario-on-kubernetes-0b40568b2bbd?source=rss-10e6ab50b9a------2)
 - [Unleashing the Power of AWS: Launching Your Own WordPress Site with Docker on EC2!](https://rajatrokde.medium.com/unleashing-the-power-of-aws-launching-your-own-wordpress-site-with-docker-on-ec2-48f12d10ea4?source=rss-10e6ab50b9a------2)
 - [step-by-step guide for a DevOps project:](https://rajatrokde.medium.com/step-by-step-guide-for-a-devops-project-32beb40186fe?source=rss-10e6ab50b9a------2)
 - [Automate EC2 Instance Launch using Github Actions](https://rajatrokde.medium.com/introduction-a028cc5a251b?source=rss-10e6ab50b9a------2)
