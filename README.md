@@ -2,13 +2,13 @@
 <h1 align="center">Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> I Am Rajat R Rokde</h1>
 <h3 align="center"> **A Passionate devops developer from Pune,India**</h3>
 
-- 🔭 I’m currently working on **aws ticket booking system and other cloud computing project**
+- 🔭 I’m currently working on **aws ticket booking system and other cloud computing projects**
 
-- 💬 Ask me about **aws, cicrcle cicd, jenkins ,kuberneties,terraform,docker**
+- 💬 Ask me about **aws, circle cicd, Jenkins ,Kubernetes, terraform,docker**
 
 
 
-<h3 align="left"> **Connect with me**:</h3>
+<h3 align="left"> **Get Touch With Me**:</h3>
 <p align="center">  
     <a href="https://github.com/rajatrokde" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@RajatRokde-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rajatrokde/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Rajatrokde-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
